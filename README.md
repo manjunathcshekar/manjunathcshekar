@@ -108,9 +108,9 @@ SystemVerilog • UVM
 
 📧 Email: manjunathc349@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/manjunath-c-shekar-51341a2a3/
 
-🌐 Portfolio: https://YOUR-PORTFOLIO
+🌐 Portfolio: https://my-portfolio-v2-liard.vercel.app/
 
 ---
 
