@@ -14,7 +14,7 @@ Building reliable software, cloud-native applications, and networking solutions.
 
 I'm a Software Engineer with industry experience developing and validating cloud-native telecom systems. My interests lie in backend engineering, networking, distributed systems, cloud technologies, and scalable software development.
 
-- 💼 Former Student Intern at Nokia
+- 💼 Student Intern at Nokia
 - 🌍 Based in Bengaluru, India
 - 💡 Interested in Software Engineering, Cloud, Networking, and Distributed Systems
 - 🚀 Passionate about building high-quality software with clean architecture
