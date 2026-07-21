@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Manjunath C Shekar 👋
 
-<!--
-**manjunathcshekar/manjunathcshekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Electronics & Communication Engineering Graduate
+- 💻 Software Engineer
+- 🌱 Currently learning Data Structures & Algorithms
+- ☁️ Learning Linux, Networking, Docker, Kubernetes, and Cloud
+- 📍 Bengaluru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+
+**Tools**
+- Git
+- Linux
+- Docker
+- VS Code
+
+**Currently Learning**
+- Data Structures & Algorithms
+- System Design
+- Kubernetes
+- Cloud Computing
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 AXI Asynchronous FIFO Design (SystemVerilog + UVM)
+- 🌐 Amazon Clone
+- 💼 Portfolio Website
+- 🤖 AI Virtual E-Tongue
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *https://www.linkedin.com/in/manjunath-c-shekar-51341a2a3/*
+- Email: *manjunathjc349@gmail.com*
